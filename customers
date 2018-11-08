@@ -1,0 +1,3 @@
+echo "Enter Names"
+read names
+echo "names : " $names"
